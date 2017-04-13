@@ -1,3 +1,2 @@
-cat /etc/hosts
-useradd sampleuser
+cat /etc/host
 apt-get update
